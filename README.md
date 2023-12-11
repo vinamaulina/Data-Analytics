@@ -1,5 +1,5 @@
 # Data-Analytics
-## Statistics for data scientist
+## Statistics for Data Scientist
 Data science includes extracting data and results, and statistics focus on the analysis and communication of the data results. Statistical data science works to explain the trends and results of a data set by identifying the statistical correlations and distribution of variables and values.
 
 ### Probability
